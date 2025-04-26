@@ -85,8 +85,8 @@ data/
 
 ---
 
-## 👥 Authors
-- Nikhil Pandey & Team, Northeastern University, MS in Information Systems (2025)
+## 👥 Contributors
+- Ayush Patil, Nikhil Pandey,Kallem Harsha Vardhan Reddy, Northeastern University, MS in Information Systems (2025)
 
 ---
 

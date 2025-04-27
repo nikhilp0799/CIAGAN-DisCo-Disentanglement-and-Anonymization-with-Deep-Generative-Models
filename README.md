@@ -15,7 +15,7 @@ This repository contains our full implementation pipeline, datasets, and support
 │
 ├── DisCo/
 │   ├── Data_Science_Project_DiscoPaper.ipynb    # Full DisCo model implementation
-│   ├── README_DisCo.md                           # Overview and progress of DisCo
+│   
 │
 ├── papers/
 │   ├── CIAGAN_CVPR2020.pdf                      # Official CIAGAN paper
